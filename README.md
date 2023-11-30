@@ -8,3 +8,4 @@ Haskell comes with a range of standard library functions, some of which we will 
 - reverse
 - length
 - append
+- 
